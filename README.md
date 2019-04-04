@@ -1,2 +1,2 @@
 # my1stGit
-1s extencions
+1s extensions
